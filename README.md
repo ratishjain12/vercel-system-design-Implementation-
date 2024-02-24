@@ -2,7 +2,7 @@
 ## Tech Stack
 - Nodejs
 - Aws s3
-- redis
+- Redis
 - Expressjs
 - React
 - Shadcn
